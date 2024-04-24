@@ -1,0 +1,2 @@
+1. The bug was that the first and second number were read as strings instead of numbers. As a result, the addition of these two values becomes the concatenation of two strings instead of the addition of two number.
+2. I would apply the parseInt function to the code that reads in values of the first and second number. Code in fix.png.
